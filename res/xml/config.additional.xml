@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cordova>
+    <!-- ...  -->
+
+<plugins>
+    <!-- ...  -->
+    <plugin name="SendSms" value="net.webootu.cordova.plugin.SendSms" />
+</plugins>
+</cordova>
+
